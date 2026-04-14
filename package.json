@@ -1,1 +1,9 @@
-package.json
+{
+  "name": "ebay-sell-tool",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "build": "echo \"No build step configured\"",
+    "start": "node server.js"
+  }
+}
